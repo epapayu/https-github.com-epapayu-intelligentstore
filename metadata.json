@@ -1,0 +1,7 @@
+{
+  "name": "Store Performance Tracker",
+  "description": "An application to visualize store performance data on Google Maps and query competitor information using an AI chatbot.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
